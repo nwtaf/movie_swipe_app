@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677521010036",
+    "firebase_url": "https://movieswipes-166a4-default-rtdb.firebaseio.com",
+    "project_id": "movieswipes-166a4",
+    "storage_bucket": "movieswipes-166a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677521010036:android:10ca2ef1d930bb5dc0d021",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677521010036-rhb1vo1m7oenff2au8d8ag43hptf6e0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0JRXpsVSNWCUjp9RCJw9C14oHrGPRbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677521010036-rhb1vo1m7oenff2au8d8ag43hptf6e0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
